@@ -66,6 +66,7 @@ html {
   text-shadow: 0 0 0.5rem black;
 }
 .keys__cel__div__btn {
+  text-align: center;
   background: rgba(0, 0, 0, 0.4);
   color: white;
   text-shadow: 0 0 0.5rem #ffc600;
